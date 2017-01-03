@@ -1,0 +1,70 @@
+H:\work_bak\application\dotNet\BaseClient - 副本\BaseClient\bin\Debug\TurnoverClient.exe
+H:\work_bak\application\dotNet\BaseClient - 副本\BaseClient\bin\Debug\TurnoverClient.pdb
+H:\work_bak\application\dotNet\BaseClient - 副本\BaseClient\bin\Debug\OpenNETCF.dll
+H:\work_bak\application\dotNet\BaseClient - 副本\BaseClient\bin\Debug\OpenNETCF.Configuration.dll
+H:\work_bak\application\dotNet\BaseClient - 副本\BaseClient\bin\Debug\OpenNETCF.Configuration.xml
+H:\work_bak\application\dotNet\BaseClient - 副本\BaseClient\bin\Debug\OpenNETCF.xml
+H:\work_bak\application\dotNet\BaseClient - 副本\BaseClient\obj\Debug\ResolveAssemblyReference.cache
+H:\work_bak\application\dotNet\BaseClient - 副本\BaseClient\obj\Debug\BaseClient.Form1.resources
+H:\work_bak\application\dotNet\BaseClient - 副本\BaseClient\obj\Debug\TurnoverClient.Properties.Resources.resources
+H:\work_bak\application\dotNet\BaseClient - 副本\BaseClient\obj\Debug\TurnoverClient.csproj.GenerateResource.Cache
+H:\work_bak\application\dotNet\BaseClient - 副本\BaseClient\obj\Debug\TurnoverClient.exe
+H:\work_bak\application\dotNet\BaseClient - 副本\BaseClient\obj\Debug\TurnoverClient.pdb
+H:\work_bak\application\dotNet\TurnoverClient\BaseClient\bin\Debug\TurnoverClient.exe
+H:\work_bak\application\dotNet\TurnoverClient\BaseClient\bin\Debug\TurnoverClient.pdb
+H:\work_bak\application\dotNet\TurnoverClient\BaseClient\bin\Debug\OpenNETCF.dll
+H:\work_bak\application\dotNet\TurnoverClient\BaseClient\bin\Debug\OpenNETCF.Configuration.dll
+H:\work_bak\application\dotNet\TurnoverClient\BaseClient\bin\Debug\OpenNETCF.Configuration.xml
+H:\work_bak\application\dotNet\TurnoverClient\BaseClient\bin\Debug\OpenNETCF.xml
+H:\work_bak\application\dotNet\TurnoverClient\BaseClient\obj\Debug\ResolveAssemblyReference.cache
+H:\work_bak\application\dotNet\TurnoverClient\BaseClient\obj\Debug\BaseClient.Form1.resources
+H:\work_bak\application\dotNet\TurnoverClient\BaseClient\obj\Debug\TurnoverClient.Properties.Resources.resources
+H:\work_bak\application\dotNet\TurnoverClient\BaseClient\obj\Debug\TurnoverClient.csproj.GenerateResource.Cache
+H:\work_bak\application\dotNet\TurnoverClient\BaseClient\obj\Debug\TurnoverClient.exe
+H:\work_bak\application\dotNet\TurnoverClient\BaseClient\obj\Debug\TurnoverClient.pdb
+H:\work_bak\application\dotNet\TurnoverClient\BaseClient\bin\Release\TurnoverClient.exe
+H:\work_bak\application\dotNet\TurnoverClient\BaseClient\bin\Release\TurnoverClient.pdb
+H:\work_bak\application\dotNet\TurnoverClient\BaseClient\bin\Release\OpenNETCF.dll
+H:\work_bak\application\dotNet\TurnoverClient\BaseClient\bin\Release\OpenNETCF.Configuration.dll
+H:\work_bak\application\dotNet\TurnoverClient\BaseClient\bin\Release\OpenNETCF.Configuration.xml
+H:\work_bak\application\dotNet\TurnoverClient\BaseClient\bin\Release\OpenNETCF.xml
+H:\work_bak\application\dotNet\TurnoverClient\BaseClient\obj\Release\ResolveAssemblyReference.cache
+H:\work_bak\application\dotNet\TurnoverClient\BaseClient\obj\Release\BaseClient.Form1.resources
+H:\work_bak\application\dotNet\TurnoverClient\BaseClient\obj\Release\TurnoverClient.Properties.Resources.resources
+H:\work_bak\application\dotNet\TurnoverClient\BaseClient\obj\Release\TurnoverClient.csproj.GenerateResource.Cache
+H:\work_bak\application\dotNet\TurnoverClient\BaseClient\obj\Release\TurnoverClient.exe
+H:\work_bak\application\dotNet\TurnoverClient\BaseClient\obj\Release\TurnoverClient.pdb
+H:\work_bak\dotNet\TurnoverClient\BaseClient\bin\Release\TurnoverClient.exe
+H:\work_bak\dotNet\TurnoverClient\BaseClient\bin\Release\TurnoverClient.pdb
+H:\work_bak\dotNet\TurnoverClient\BaseClient\bin\Release\OpenNETCF.dll
+H:\work_bak\dotNet\TurnoverClient\BaseClient\bin\Release\OpenNETCF.Configuration.dll
+H:\work_bak\dotNet\TurnoverClient\BaseClient\bin\Release\OpenNETCF.Configuration.xml
+H:\work_bak\dotNet\TurnoverClient\BaseClient\bin\Release\OpenNETCF.xml
+H:\work_bak\dotNet\TurnoverClient\BaseClient\obj\Release\ResolveAssemblyReference.cache
+H:\work_bak\dotNet\TurnoverClient\BaseClient\obj\Release\BaseClient.Form1.resources
+H:\work_bak\dotNet\TurnoverClient\BaseClient\obj\Release\TurnoverClient.Properties.Resources.resources
+H:\work_bak\dotNet\TurnoverClient\BaseClient\obj\Release\TurnoverClient.csproj.GenerateResource.Cache
+H:\work_bak\dotNet\TurnoverClient\BaseClient\obj\Release\TurnoverClient.exe
+H:\work_bak\dotNet\TurnoverClient\BaseClient\obj\Release\TurnoverClient.pdb
+H:\work_bak\dotNet\NewTurnoverClient\BaseClient\bin\Release\TurnoverClient.exe
+H:\work_bak\dotNet\NewTurnoverClient\BaseClient\bin\Release\TurnoverClient.pdb
+H:\work_bak\dotNet\NewTurnoverClient\BaseClient\bin\Release\CompactFormatterPlus.dll
+H:\work_bak\dotNet\NewTurnoverClient\BaseClient\bin\Release\ISerial.dll
+H:\work_bak\dotNet\NewTurnoverClient\BaseClient\bin\Release\OpenNETCF.Net.dll
+H:\work_bak\dotNet\NewTurnoverClient\BaseClient\bin\Release\OpenNETCF.WindowsCE.Messaging.dll
+H:\work_bak\dotNet\NewTurnoverClient\BaseClient\bin\Release\OpenNETCF.Configuration.dll
+H:\work_bak\dotNet\NewTurnoverClient\BaseClient\bin\Release\ADOHelper.dll
+H:\work_bak\dotNet\NewTurnoverClient\BaseClient\bin\Release\OpenNETCF.dll
+H:\work_bak\dotNet\NewTurnoverClient\BaseClient\bin\Release\CompactFormatterPlus.pdb
+H:\work_bak\dotNet\NewTurnoverClient\BaseClient\bin\Release\OpenNETCF.WindowsCE.Messaging.xml
+H:\work_bak\dotNet\NewTurnoverClient\BaseClient\bin\Release\ISerial.pdb
+H:\work_bak\dotNet\NewTurnoverClient\BaseClient\bin\Release\OpenNETCF.Configuration.xml
+H:\work_bak\dotNet\NewTurnoverClient\BaseClient\bin\Release\ADOHelper.pdb
+H:\work_bak\dotNet\NewTurnoverClient\BaseClient\bin\Release\OpenNETCF.xml
+H:\work_bak\dotNet\NewTurnoverClient\BaseClient\bin\Release\OpenNETCF.Net.xml
+H:\work_bak\dotNet\NewTurnoverClient\BaseClient\obj\Release\ResolveAssemblyReference.cache
+H:\work_bak\dotNet\NewTurnoverClient\BaseClient\obj\Release\BaseClient.Form1.resources
+H:\work_bak\dotNet\NewTurnoverClient\BaseClient\obj\Release\TurnoverClient.Properties.Resources.resources
+H:\work_bak\dotNet\NewTurnoverClient\BaseClient\obj\Release\TurnoverClient.csproj.GenerateResource.Cache
+H:\work_bak\dotNet\NewTurnoverClient\BaseClient\obj\Release\TurnoverClient.exe
+H:\work_bak\dotNet\NewTurnoverClient\BaseClient\obj\Release\TurnoverClient.pdb
